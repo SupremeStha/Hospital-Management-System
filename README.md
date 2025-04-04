@@ -1,6 +1,6 @@
 # Hospital Management System
 
-Over the past few weeks, I’ve been working on building a Hospital Management System that aims to simplify and digitize healthcare administration. This project simulates real-world hospital operations and is designed with scalability, usability, and data accuracy in mind.
+I have developed a Hospital Management System as my academic project which aims to simplify and digitize healthcare administration. This project simulates real-world hospital operations and is designed with scalability, usability, and data accuracy in mind.
 
 ## What It Does
 
